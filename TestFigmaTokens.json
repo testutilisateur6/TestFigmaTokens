@@ -1,1 +1,681 @@
-
+{
+  "Bonjour RATP": {
+    "4": {
+      "value": "4",
+      "type": "borderRadius"
+    },
+    "8": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "16": {
+      "value": "16",
+      "type": "borderWidth"
+    },
+    "Primary colors": {
+      "urbanBlue": {
+        "value": "#0a0082",
+        "type": "color",
+        "description": "#0A0082"
+      },
+      "urbanBlue50": {
+        "value": "#8480c0",
+        "type": "color"
+      },
+      "urbanBlue30": {
+        "value": "#b5b2d9",
+        "type": "color"
+      },
+      "urbanBlue10": {
+        "value": "#e8e7f3",
+        "type": "color"
+      },
+      "jadeGreen": {
+        "value": "#00aa91",
+        "type": "color",
+        "description": "#00AA91"
+      },
+      "darkGreen": {
+        "value": "#008371",
+        "type": "color",
+        "description": "#3A52CA"
+      }
+    },
+    "Secondary colors": {
+      "secondaryBlue": {
+        "value": "#3a52ca",
+        "type": "color",
+        "description": "#3A52CA"
+      },
+      "secondaryYellow": {
+        "value": "#ffe866",
+        "type": "color",
+        "description": "#FFE866"
+      },
+      "secondaryPink": {
+        "value": "#f8cbc4",
+        "type": "color",
+        "description": "#F8CBC4"
+      },
+      "tertiaryBlue": {
+        "value": "#96c3ff",
+        "type": "color",
+        "description": "#96C3FF"
+      },
+      "tertiaryBrown": {
+        "value": "#a8745c",
+        "type": "color",
+        "description": "Use this brown only in illustrations"
+      },
+      "tertiaryGrey": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "description": "Use this grey only in illustrations"
+      }
+    },
+    "Black tints": {
+      "black": {
+        "value": "#000033",
+        "type": "color",
+        "description": "#000000"
+      },
+      "black70": {
+        "value": "#3f3f3f",
+        "type": "color"
+      },
+      "black50": {
+        "value": "#7f7f7f",
+        "type": "color"
+      },
+      "black15": {
+        "value": "#d8d8d8",
+        "type": "color"
+      },
+      "black04": {
+        "value": "#f4f4f4",
+        "type": "color"
+      },
+      "black02": {
+        "value": "#fafafa",
+        "type": "color"
+      }
+    },
+    "White tints": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "#FFFFFF"
+      },
+      "white70": {
+        "value": "#ffffffb3",
+        "type": "color"
+      },
+      "white50": {
+        "value": "#ffffff80",
+        "type": "color"
+      },
+      "white30": {
+        "value": "#ffffff4d",
+        "type": "color"
+      },
+      "white10": {
+        "value": "#ffffff1a",
+        "type": "color"
+      },
+      "transparent": {
+        "value": "#ffffff00",
+        "type": "color"
+      }
+    },
+    "Informative colors": {
+      "warningHigh": {
+        "value": "#e32826",
+        "type": "color"
+      },
+      "warningHigh10": {
+        "value": "#fceae9",
+        "type": "color"
+      },
+      "warningMedium": {
+        "value": "#ff8c00",
+        "type": "color"
+      },
+      "warningMedium10": {
+        "value": "#fff4e6",
+        "type": "color"
+      },
+      "warningNormal": {
+        "value": "#008153",
+        "type": "color"
+      },
+      "warningNormal10": {
+        "value": "#e6f2ee",
+        "type": "color"
+      },
+      "airConditioning": {
+        "value": "#4a94e8",
+        "type": "color"
+      }
+    },
+    "Line colors": {
+      "azur": {
+        "value": "#0055c8",
+        "type": "color"
+      },
+      "cobalt": {
+        "value": "#3c91dc",
+        "type": "color"
+      },
+      "periwinkle": {
+        "value": "#82c8e6",
+        "type": "color"
+      },
+      "mint": {
+        "value": "#82dc73",
+        "type": "color"
+      },
+      "turquoise": {
+        "value": "#00a092",
+        "type": "color"
+      },
+      "fir": {
+        "value": "#00643c",
+        "type": "color"
+      },
+      "olive": {
+        "value": "#6e6e00",
+        "type": "color"
+      },
+      "acacia": {
+        "value": "#d2d200",
+        "type": "color"
+      },
+      "buttercup": {
+        "value": "#ffbe00",
+        "type": "color"
+      },
+      "ochre": {
+        "value": "#dc9600",
+        "type": "color"
+      },
+      "brown": {
+        "value": "#6e491e",
+        "type": "color"
+      },
+      "orange": {
+        "value": "#ff5a00",
+        "type": "color"
+      },
+      "poppy": {
+        "value": "#ff1400",
+        "type": "color"
+      },
+      "raspberry": {
+        "value": "#d8005b",
+        "type": "color"
+      },
+      "pink": {
+        "value": "#ff82b4",
+        "type": "color"
+      },
+      "lilac": {
+        "value": "#d282be",
+        "type": "color"
+      },
+      "parma": {
+        "value": "#a0006e",
+        "type": "color"
+      },
+      "iris": {
+        "value": "#640082",
+        "type": "color"
+      }
+    },
+    "Technical colors": {
+      "pearl": {
+        "value": "#f0dcd2",
+        "type": "color"
+      },
+      "elysée": {
+        "value": "#6e645a",
+        "type": "color"
+      },
+      "emerald": {
+        "value": "#198250",
+        "type": "color"
+      },
+      "brunTaupe": {
+        "value": "#7c6f66",
+        "type": "color"
+      },
+      "kakiGreen": {
+        "value": "#a29957",
+        "type": "color"
+      },
+      "opaline": {
+        "value": "#6ca3b9",
+        "type": "color"
+      }
+    },
+    "Partners colors": {
+      "velibPrimaryYellow": {
+        "value": "#fbd220",
+        "type": "color"
+      },
+      "velibPrimaryGreen": {
+        "value": "#71c160",
+        "type": "color"
+      },
+      "velibPrimaryBlue": {
+        "value": "#5cafc1",
+        "type": "color"
+      },
+      "velibSecondaryYellow": {
+        "value": "#fce88f",
+        "type": "color"
+      },
+      "velibSecondaryGreen": {
+        "value": "#b7dfaf",
+        "type": "color"
+      },
+      "velibSecondaryBlue": {
+        "value": "#add6df",
+        "type": "color"
+      },
+      "marcelBlue": {
+        "value": "#1c5e7c",
+        "type": "color"
+      },
+      "marcelRed": {
+        "value": "#f06969",
+        "type": "color"
+      },
+      "tierBlue": {
+        "value": "#0e1a50",
+        "type": "color"
+      },
+      "tierVehiculeGreen": {
+        "value": "#20e0cc",
+        "type": "color"
+      },
+      "mappyBlue": {
+        "value": "#00346b",
+        "type": "color"
+      },
+      "mappyGreen": {
+        "value": "#008006",
+        "type": "color"
+      },
+      "idfmLightBlue": {
+        "value": "#64b5e5",
+        "type": "color"
+      },
+      "idfmDarkBlue": {
+        "value": "#0a77d9",
+        "type": "color"
+      },
+      "klaxitYellow": {
+        "value": "#ff9d00",
+        "type": "color"
+      },
+      "cityscootBlue": {
+        "value": "#0057bf",
+        "type": "color"
+      },
+      "cityscootGreen": {
+        "value": "#00c28e",
+        "type": "color"
+      },
+      "cityscootGreen20": {
+        "value": "#ccf3e8",
+        "type": "color"
+      },
+      "communautoGreen": {
+        "value": "#84bf41",
+        "type": "color"
+      }
+    },
+    "Other": {
+      "figmaBrown": {
+        "value": "#835c38",
+        "type": "color"
+      }
+    },
+    "05 Modal": {
+      "value": [
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "9",
+          "blur": "46",
+          "spread": "8"
+        },
+        {
+          "color": "#00000033",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "11",
+          "blur": "12",
+          "spread": "0"
+        },
+        {
+          "color": "#00000024",
+          "type": "dropShadow",
+          "x": "0",
+          "y": "24",
+          "blur": "38",
+          "spread": "3"
+        }
+      ],
+      "type": "boxShadow",
+      "description": "Used on pop-ins"
+    },
+    "04 Navigation": {
+      "value": {
+        "color": "#00000059",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "6",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Used on Bottom navigation bar"
+    },
+    "03 Floating": {
+      "value": {
+        "color": "#00000040",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Used on Floating buttons, Legacy buttons, Search bars"
+    },
+    "02 Blue tab": {
+      "value": {
+        "color": "#04003326",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "2",
+        "blur": "4",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Used on selected global architecture Tabs"
+    },
+    "01 Layer": {
+      "value": {
+        "color": "#00000033",
+        "type": "dropShadow",
+        "x": "0",
+        "y": "0",
+        "blur": "6",
+        "spread": "0"
+      },
+      "type": "boxShadow",
+      "description": "Used on Global architecture layers, Around me layers, Animated feedback window"
+    },
+    "fontFamilies": {
+      "parisinett": {
+        "value": "ParisineTT",
+        "type": "fontFamilies"
+      }
+    },
+    "lineHeights": {
+      "2": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "3": {
+        "value": "21",
+        "type": "lineHeights"
+      },
+      "4": {
+        "value": "18",
+        "type": "lineHeights"
+      },
+      "5": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": "12",
+        "type": "lineHeights"
+      },
+      "30": {
+        "value": "30",
+        "type": "lineHeights"
+      },
+      "38": {
+        "value": "38",
+        "type": "lineHeights"
+      }
+    },
+    "fontWeights": {
+      "parisinett-0": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "parisinett-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "fontSize": {
+      "0": {
+        "value": "9",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "14",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "18",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "24",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "32",
+        "type": "fontSizes"
+      }
+    },
+    "letterSpacing": {
+      "0": {
+        "value": "0",
+        "type": "letterSpacing"
+      }
+    },
+    "paragraphSpacing": {
+      "0": {
+        "value": "0",
+        "type": "paragraphSpacing"
+      }
+    },
+    "Parisine 32 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "{lineHeights.38}",
+        "fontSize": "$fontSize.6",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 24 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "{lineHeights.30}",
+        "fontSize": "$fontSize.5",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 18 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "$lineHeights.2",
+        "fontSize": "$fontSize.4",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 18 Regular": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-1",
+        "lineHeight": "$lineHeights.2",
+        "fontSize": "$fontSize.4",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography",
+      "description": "Title 3"
+    },
+    "Parisine 16 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "$lineHeights.3",
+        "fontSize": "$fontSize.3",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 16 Regular": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-1",
+        "lineHeight": "$lineHeights.3",
+        "fontSize": "$fontSize.3",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 14 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "$lineHeights.4",
+        "fontSize": "$fontSize.2",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 14 Regular": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-1",
+        "lineHeight": "$lineHeights.4",
+        "fontSize": "$fontSize.2",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 12 Bold": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-0",
+        "lineHeight": "$lineHeights.5",
+        "fontSize": "$fontSize.1",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 12 Regular": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-1",
+        "lineHeight": "$lineHeights.5",
+        "fontSize": "$fontSize.1",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "Parisine 9 Regular": {
+      "value": {
+        "fontFamily": "$fontFamilies.parisinett",
+        "fontWeight": "$fontWeights.parisinett-1",
+        "lineHeight": "$lineHeights.6",
+        "fontSize": "$fontSize.0",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "type": "typography"
+    },
+    "textCase": {
+      "none": {
+        "value": "none",
+        "type": "textCase"
+      }
+    },
+    "textDecoration": {
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      }
+    },
+    "3XS": {
+      "value": "4",
+      "description": "4pt, 4dp, 0,25rem",
+      "type": "spacing"
+    },
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration"
+    },
+    "1-inside": {
+      "value": "1",
+      "type": "borderWidth"
+    }
+  },
+  "Partners": {}
+}
